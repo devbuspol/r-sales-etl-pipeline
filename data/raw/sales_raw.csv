@@ -1,0 +1,11 @@
+
+order_id,order_date,customer,product,category,quantity,unit_price
+1,2026-01-05,Anna Kowalska,Laptop,Electronics,1,3500
+2,2026-01-06,Jan Nowak,Mouse,Accessories,2,50
+3,2026-01-07,Piotr Wiśniewski,Monitor,Electronics,1,1200
+4,2026-01-08,Anna Kowalska,Keyboard,Accessories,1,150
+5,2026-01-09,Marek Zieliński,Phone,Electronics,2,2000
+5,2026-01-09,Marek Zieliński,Phone,Electronics,2,2000
+6,2026-01-10,Ewa Nowak,Mouse,Accessories,0,50
+7,2026-01-11,Adam Kowalski,Laptop,Electronics,1,3500
+8,2026-01-12,,Monitor,Electronics,1,1200
